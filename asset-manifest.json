@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hub-academy/static/css/main.d3e05e4e.css",
-    "main.js": "/hub-academy/static/js/main.5f5a79a7.js",
-    "index.html": "/hub-academy/index.html",
-    "main.d3e05e4e.css.map": "/hub-academy/static/css/main.d3e05e4e.css.map",
-    "main.5f5a79a7.js.map": "/hub-academy/static/js/main.5f5a79a7.js.map"
+    "main.css": "/Rizal-Style10/static/css/main.d3e05e4e.css",
+    "main.js": "/Rizal-Style10/static/js/main.5f5a79a7.js",
+    "index.html": "/Rizal-Style10/index.html",
+    "main.d3e05e4e.css.map": "/Rizal-Style10/static/css/main.d3e05e4e.css.map",
+    "main.5f5a79a7.js.map": "/Rizal-Style10/static/js/main.5f5a79a7.js.map"
   },
   "entrypoints": [
     "static/css/main.d3e05e4e.css",
