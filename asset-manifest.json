@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rizal-Style10/static/css/main.d3e05e4e.css",
+    "main.js": "/Rizal-Style10/static/js/main.5f5a79a7.js",
+    "index.html": "/Rizal-Style10/index.html",
+    "main.d3e05e4e.css.map": "/Rizal-Style10/static/css/main.d3e05e4e.css.map",
+    "main.5f5a79a7.js.map": "/Rizal-Style10/static/js/main.5f5a79a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e05e4e.css",
+    "static/js/main.5f5a79a7.js"
+  ]
+}
